@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Academia Cascola</title>
+    <meta
+      name="description"
+      content="Descubra programas profissionais de treinamento abrangentes, que agregam valor, tendo como foco central a satisfação do cliente, cumprindo assim os objetivos de negócios."
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+
+    <script>
+      window.dataLayer = window.dataLayer || [];
+    </script>
+    <script type="module" crossorigin src="https://storage.googleapis.com/cascola/academia-cascola/assets/index.js"></script>
+    <link rel="stylesheet" href="https://storage.googleapis.com/cascola/academia-cascola/assets/index.css">
+  </head>
+  <body>
+    <div id="app">
+      <!--app-html-->
+    </div>
+    
+  </body>
+</html>
